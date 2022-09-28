@@ -1,0 +1,10 @@
+.video-item {
+
+    margin: 1rem 0;
+    font-size: 12px;
+}
+
+.video-item img.image {
+
+    max-width: 150px;
+}
